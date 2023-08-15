@@ -1,5 +1,4 @@
 import React from "react";
-import { AiOutlineShoppingCart } from "react-icons/ai";
 
 export default function Card(props) {
     return (
@@ -26,7 +25,7 @@ export default function Card(props) {
                 <div className="flex flex-row gap-2">
                     {/* Add to Cart Button */}
                     <button className="px-3 py-3 text-xl bg-black text-white">
-                        <AiOutlineShoppingCart />
+                        Buy
                     </button>
                     {/* Add to Wishlist Button */}
                     <button className="px-2 py-2 bg-black text-white">
