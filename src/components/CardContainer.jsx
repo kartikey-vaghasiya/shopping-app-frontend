@@ -5,7 +5,7 @@ import Filter from "./Filter";
 
 export default function CardContainer() {
     // State to store the products and selected filter
-    const products = React.useState(data);
+    const [products] = React.useState(data);
     const [filter, setFilter] = React.useState('All');
 
     // Filter the data based on the selected category
