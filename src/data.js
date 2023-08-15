@@ -1,0 +1,130 @@
+const data = [
+    {
+        "productName":"Superdry Jacket",
+        "catagory":"Fashion",
+        "price":1000,
+        "imageSrc": "./images/fashion1.png",
+    },
+    {
+        "productName":"Levi's Jeans",
+        "catagory":"Fashion",
+        "price":3000,
+        "imageSrc": "./images/fashion2.png",
+    },
+    {
+        "productName":"Puma Shorts",
+        "catagory":"Fashion",
+        "price":800,
+        "imageSrc": "./images/fashion3.png",
+    },
+    {
+        "productName":"Mixer",
+        "catagory":"Kitchen",
+        "price":500,
+        "imageSrc": "./images/kitchen1.png",
+    },
+    {
+        "productName":"Cooker",
+        "catagory":"Kitchen",
+        "price":900,
+        "imageSrc": "./images/kitchen2.png",
+    },
+    {
+        "productName":"Lego",
+        "catagory":"Toys",
+        "price":1500,
+        "imageSrc": "./images/toys1.png",
+    },
+    {
+        "productName":"Barbie Girl",
+        "catagory":"Toys",
+        "price":200,
+        "imageSrc": "./images/toys2.png",
+    },
+    {
+        "productName":"Superdry Jacket",
+        "catagory":"Fashion",
+        "price":1000,
+        "imageSrc": "./images/fashion1.png",
+    },
+    {
+        "productName":"Levi's Jeans",
+        "catagory":"Fashion",
+        "price":3000,
+        "imageSrc": "./images/fashion2.png",
+    },
+    {
+        "productName":"Puma Shorts",
+        "catagory":"Fashion",
+        "price":800,
+        "imageSrc": "./images/fashion3.png",
+    },
+    {
+        "productName":"Mixer",
+        "catagory":"Kitchen",
+        "price":500,
+        "imageSrc": "./images/kitchen1.png",
+    },
+    {
+        "productName":"Cooker",
+        "catagory":"Kitchen",
+        "price":900,
+        "imageSrc": "./images/kitchen2.png",
+    },
+    {
+        "productName":"Lego",
+        "catagory":"Toys",
+        "price":1500,
+        "imageSrc": "./images/toys1.png",
+    },
+    {
+        "productName":"Barbie Girl",
+        "catagory":"Toys",
+        "price":200,
+        "imageSrc": "./images/toys2.png",
+    },
+    {
+        "productName":"Superdry Jacket",
+        "catagory":"Fashion",
+        "price":1000,
+        "imageSrc": "./images/fashion1.png",
+    },
+    {
+        "productName":"Levi's Jeans",
+        "catagory":"Fashion",
+        "price":3000,
+        "imageSrc": "./images/fashion2.png",
+    },
+    {
+        "productName":"Puma Shorts",
+        "catagory":"Fashion",
+        "price":800,
+        "imageSrc": "./images/fashion3.png",
+    },
+    {
+        "productName":"Mixer",
+        "catagory":"Kitchen",
+        "price":500,
+        "imageSrc": "./images/kitchen1.png",
+    },
+    {
+        "productName":"Cooker",
+        "catagory":"Kitchen",
+        "price":900,
+        "imageSrc": "./images/kitchen2.png",
+    },
+    {
+        "productName":"Lego",
+        "catagory":"Toys",
+        "price":1500,
+        "imageSrc": "./images/toys1.png",
+    },
+    {
+        "productName":"Barbie Girl",
+        "catagory":"Toys",
+        "price":200,
+        "imageSrc": "./images/toys2.png",
+    },
+]
+
+module.exports = data;
